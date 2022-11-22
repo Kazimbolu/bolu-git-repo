@@ -1,0 +1,18 @@
+GIT COMMAND
+STEP 1- You modify from the working directory
+STEP 2- You add these files to the staging area
+Step 3- Commit your fike
+STEP 4- Push to Git repository
+
+GIT CLONE - CMD- git clone + url of the repo
+CMD to move to staging area - git add . + directory + name of file u want add
+COMMIT TO REPO -CMD- git commit -m +"comment"
+
+Command to check status - git status + -s
+Command to check version -CMD- git--version
+
+CONFIG COMMAND PROMPT -CMD- git config
+
+git-init
+
+git remote url
